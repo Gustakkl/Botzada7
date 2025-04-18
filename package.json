@@ -1,0 +1,11 @@
+{
+  "name": "merlinbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "readline": "^1.3.0" 
+  }
+}
